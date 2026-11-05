@@ -24,7 +24,7 @@ body {
   flex: 1;
   min-height: 0;
   padding: 4px;
-  font-size: clamp(7rem, 7vw, 7rem);
+  font-size: 6rem;
   text-align: left;
   border: none;
   background-color: hsl(0, 0%, 20%);
